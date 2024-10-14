@@ -5,7 +5,7 @@
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Вот, что я умею
-- Java. [Домашние работы по курсу Java](https://github.com/Ev-genia-Moon/Task9_OOP)
+- Java. [Домашние работы по курсу Java](https://github.com/Ev-genia-Moon/JAVA/tree/main)
 
 - GIT. [Домашние работы по курсу GIT](https://github.com/Ev-genia-Moon/GIT)
 
