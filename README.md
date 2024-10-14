@@ -21,4 +21,4 @@ Java, Система сборки Maven, управление зависимос
 
 GIT - система контроля версий: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/GIT.pdf
 
-Java для тестировщиков: 
+Java для тестировщиков: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Java.pdf
