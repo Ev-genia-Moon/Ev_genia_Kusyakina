@@ -2,7 +2,7 @@
 Я <b>Евгения Кусякина</b>, тестировщик ПО.
 
 ### Мой стек
-Windows, Bash, Git, Java
+Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Вот, что я умею
 Java, объектно-ориентированное программирование, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task9_OOP
