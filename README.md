@@ -5,11 +5,11 @@
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Вот, что я умею
-- Java. [домашние работы по курсу Java](https://github.com/Ev-genia-Moon/Task9_OOP)
+- Java. [Домашние работы по курсу Java](https://github.com/Ev-genia-Moon/Task9_OOP)
 
-- GIT. [домашние работы по курсу GIT](https://github.com/Ev-genia-Moon/Task8CI)
+- GIT. [Домашние работы по курсу GIT](https://github.com/Ev-genia-Moon/Task8CI)
 
-- Ручное тестирование. [домашние работы по курсу Ручное тестирование](https://github.com/Ev-genia-Moon/Task7Maven)
+- Ручное тестирование. [Домашние работы по курсу Ручное тестирование](https://github.com/Ev-genia-Moon/Task7Maven)
 
 ### Сертификаты Нетологии
 
