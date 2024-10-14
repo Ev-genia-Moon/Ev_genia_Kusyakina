@@ -17,7 +17,7 @@ Java, Система сборки Maven, управление зависимос
 
 ### Сертификаты Нетологии
 
-Ручное тестирование Web-притложений: 
+Ручное тестирование Web-притложений: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Test.pdf
 
 GIT - система контроля версий: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/GIT.pdf
 
