@@ -5,15 +5,11 @@
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Вот, что я умею
-Java, объектно-ориентированное программирование, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task9_OOP
+- Java. [домашние работы по курсу Java] (https://github.com/Ev-genia-Moon/Task9_OOP)
 
-Java, Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, домашние работы Нетология: CheckStyle, SpotBugs: https://github.com/Ev-genia-Moon/Task8CI
+- GIT. [домашние работы по курсу GIT] (https://github.com/Ev-genia-Moon/Task8CI)
 
-Java, Строки и массивы, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task7Maven
-
-Java, Пакеты и циклы, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task6Maven
-
-Java, Система сборки Maven, управление зависимостями, авто-тесты на JUnit5, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task4Maven
+- Ручное тестирование. [домашние работы по курсу Ручное тестирование] (https://github.com/Ev-genia-Moon/Task7Maven)
 
 ### Сертификаты Нетологии
 
