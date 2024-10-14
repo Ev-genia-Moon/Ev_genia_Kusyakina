@@ -5,15 +5,20 @@
 Windows, Bash, Git, Java
 
 ### Вот, что я умею
-Django, drf, docker, github actions, shell (https://github.com/netology-code/netomerch-backend)
+Java, объектно-ориентированное программирование, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task9_OOP
 
-FastAPI, Postgresql, Docker, Docker-compose (https://github.com/mikepro-alfamail-ru/flydata)
+Java, Выстраивание процесса непрерывной интеграции (CI): Github Actions. Покрытие кода с JaCoCo, домашние работы Нетология: CheckStyle, SpotBugs: https://github.com/Ev-genia-Moon/Task8CI
 
-Django, drf (https://github.com/mikepro-alfamail-ru/domclick)
+Java, Строки и массивы, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task7Maven
+
+Java, Пакеты и циклы, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task6Maven
+
+Java, Система сборки Maven, управление зависимостями, авто-тесты на JUnit5, домашние работы Нетология: https://github.com/Ev-genia-Moon/Task4Maven
 
 ### Сертификаты Нетологии
 
-SQL и получение данных https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/sql.pdf
+Ручное тестирование Web-притложений: 
 
-GIT https://github.com/mikepro-alfamail-ru/mikepro-alfamail-ru/blob/main/git.pdf
+GIT - система контроля версий: 
 
+Java для тестировщиков: 
