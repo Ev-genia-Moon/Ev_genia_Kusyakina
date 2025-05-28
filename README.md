@@ -19,4 +19,4 @@ GIT - система контроля версий: https://github.com/Ev-genia-
 
 Java для тестировщиков: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Java.pdf
 
-Автоматизированное тестирование: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/AutoTesting.pdf
+Автоматизированное тестирование: [Автоматизированное тестирование. Сертификат](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
