@@ -13,7 +13,7 @@ Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Sele
 
 ### Сертификаты Нетологии
 
-Ручное тестирование Web-притложений: [Ручное тестирование Web-притложений. Сертификат[]()](https://netology.ru/sharing/ec099fd0c728d646a9264a3754b6377f?utm_source=social&utm_campaign=certificate_lms )
+Ручное тестирование Web-притложений: [Ручное тестирование Web-притложений. Сертификат](https://netology.ru/sharing/ec099fd0c728d646a9264a3754b6377f?utm_source=social&utm_campaign=certificate_lms )
 
 GIT - система контроля версий: [GIT - система контроля версий. Сертификат](https://netology.ru/sharing/412cf09f7ff595bdfc278b0f7ae209f2?utm_source=social&utm_campaign=certificate_lms )
 
