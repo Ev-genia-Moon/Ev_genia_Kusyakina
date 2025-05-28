@@ -2,7 +2,7 @@
 Я <b>Евгения Кусякина</b>, тестировщик ПО.
 
 ### Мой стек
-Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
+Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Selenide, Jira, Postman, SQL, Gitlab CI, Allure 
 
 ### Вот, что я умею
 - Автоматизированное тестирование. [Домашние работы по курсу Автоматизированное тестирование](https://github.com/Ev-genia-Moon/AutoTesting/tree/main)
@@ -13,10 +13,10 @@ Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Сертификаты Нетологии
 
-Ручное тестирование Web-притложений: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Test.pdf
+Ручное тестирование Web-притложений: [Ручное тестирование Web-притложений. Сертификат[]()](https://netology.ru/sharing/ec099fd0c728d646a9264a3754b6377f?utm_source=social&utm_campaign=certificate_lms )
 
-GIT - система контроля версий: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/GIT.pdf
+GIT - система контроля версий: [GIT - система контроля версий. Сертификат](https://netology.ru/sharing/412cf09f7ff595bdfc278b0f7ae209f2?utm_source=social&utm_campaign=certificate_lms )
 
-Java для тестировщиков: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Java.pdf
+Java для тестировщиков: [Java для тестировщиков. Сертификат](https://netology.ru/sharing/f2bee2297abf2acaeb4b87cb8df4a717?utm_source=social&utm_campaign=certificate_lms )
 
 Автоматизированное тестирование: [Автоматизированное тестирование. Сертификат](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
