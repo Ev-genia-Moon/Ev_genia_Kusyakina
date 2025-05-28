@@ -1,5 +1,5 @@
 ### Привет!
-Я <b>Евгения Кусякина</b>, тестировщик ПО.
+Я <b>Евгения Кусякина</b>, Инженер по тестированию ПО.
 
 ### Мой стек
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Selenide, Jira, Postman, SQL, Gitlab CI, Allure 
