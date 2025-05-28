@@ -5,6 +5,8 @@
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 
 ### Вот, что я умею
+- Автоматизированное тестирование. [Домашние работы по курсу Автоматизированное тестирование](https://github.com/Ev-genia-Moon/AutoTesting/tree/main)
+  
 - Java. [Домашние работы по курсу Java](https://github.com/Ev-genia-Moon/JAVA/tree/main)
 
 - GIT. [Домашние работы по курсу GIT](https://github.com/Ev-genia-Moon/GIT)
@@ -16,3 +18,5 @@ Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, Jira, Postman, SQL, DevTools
 GIT - система контроля версий: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/GIT.pdf
 
 Java для тестировщиков: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/Java.pdf
+
+Автоматизированное тестирование: https://github.com/Ev-genia-Moon/Ev_genia_Kusyakina/blob/main/AutoTesting.pdf
