@@ -2,7 +2,7 @@
 Я <b>Евгения Кусякина</b>, Инженер по тестированию ПО.
 
 ### Мой стек
-Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Selenide, Jira, Postman, SQL, Gitlab CI, Allure 
+Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Selenide, Jira, Postman, Docker, DBeaver, SQL, Gitlab CI, Allure 
 
 ### Вот, что я умею
 - Автоматизированное тестирование. [Домашние работы по курсу Автоматизированное тестирование](https://github.com/Ev-genia-Moon/AutoTesting/tree/main)
