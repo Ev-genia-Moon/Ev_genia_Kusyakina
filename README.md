@@ -21,4 +21,4 @@ Java для тестировщиков: [Java для тестировщиков.
 
 Автоматизированное тестирование: [Автоматизированное тестирование. Сертификат](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
 
-Сертификат "Инженер по тестированию": [Сертификат "Инженер по тестированию". Диплом](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
+Сертификат "Инженер по тестированию": [Сертификат "Инженер по тестированию". Диплом](https://netology.ru/sharing/9c243ce75d5fce3c81c020ca900ab1bb?utm_source=social&utm_campaign=certificate_lms )
