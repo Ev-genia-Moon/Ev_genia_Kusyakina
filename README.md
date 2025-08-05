@@ -5,6 +5,8 @@
 Windows, Bash, Git, Java, IntelliJ IDEA, GitHub, DevTools, JUnit, Selenium, Selenide, Jira, Postman, Docker, DBeaver, SQL, Gitlab CI, Allure 
 
 ### Вот, что я умею
+- Дипломная работа. [Дипломная работа по специальности "Инженер по тестированию"](https://github.com/Ev-genia-Moon/DiplomQA)
+  
 - Автоматизированное тестирование. [Домашние работы по курсу Автоматизированное тестирование](https://github.com/Ev-genia-Moon/AutoTesting/tree/main)
   
 - Java. [Домашние работы по курсу Java](https://github.com/Ev-genia-Moon/JAVA/tree/main)
