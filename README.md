@@ -20,3 +20,5 @@ GIT - система контроля версий: [GIT - система кон
 Java для тестировщиков: [Java для тестировщиков. Сертификат](https://netology.ru/sharing/f2bee2297abf2acaeb4b87cb8df4a717?utm_source=social&utm_campaign=certificate_lms )
 
 Автоматизированное тестирование: [Автоматизированное тестирование. Сертификат](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
+
+Сертификат "Инженер по тестированию": [Сертификат "Инженер по тестированию". Диплом](https://netology.ru/sharing/68c00618be7abd18f7cb2c67274a943e?utm_source=social&utm_campaign=certificate_lms )
